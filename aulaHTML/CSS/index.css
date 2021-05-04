@@ -1,0 +1,27 @@
+body {
+    background-color: gray;
+}
+
+#minha_foto {
+    width: 80px;
+    margin: 0 auto;
+    border-radius: 50%;
+}
+
+#texto {
+    text-align: justify;
+    color: gray;
+}
+
+#texto1 {
+    text-align: justify;
+    color: red;
+}
+
+#texto2 {
+    text-align: justify;
+    color: green;
+}
+p {
+    color: black;
+}
